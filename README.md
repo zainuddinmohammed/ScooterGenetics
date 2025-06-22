@@ -85,3 +85,5 @@ Want to learn more? Here are some relevant topics:
 ## 📄 License
 
 MIT License — free to use, modify, and distribute.
+
+![The Scooter in Question](https://i.imgur.com/CT8sDui.gif)
